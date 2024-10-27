@@ -3,7 +3,7 @@ Termux Theme
 
 𝗜𝗻𝘀𝘁𝗮𝗹𝗹 :
 # Kloning repositori (jika belum)
-git clone git clone https://github.com/FarelDev5/FR_PROJECT
+git clone https://github.com/FarelDev5/FR_PROJECT
 
 # Masuk ke direktori proyek
 cd FR_PROJECT
